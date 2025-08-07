@@ -1,6 +1,6 @@
 import entities.Drug;
 import java.io.*;
-import java.util.*;
+
 
 public class FileHandler {
     private static final String FILE_NAME = "drugs.txt";
